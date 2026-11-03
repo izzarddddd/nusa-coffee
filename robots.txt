@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Sitemap: https://izzarddddd.github.io/nusa-coffee/sitemap.xml

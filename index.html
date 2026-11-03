@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nusa Coffee</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://izzarddddd.github.io/nusa-coffee/en/">
+<noscript><meta http-equiv="refresh" content="0; url=en/index.html"></noscript>
+<script>
+  // Remembered choice first, then the browser language; English is the default.
+  (function () {
+    var lang = 'en';
+    try { lang = localStorage.getItem('nc_lang') || ''; } catch (e) {}
+    if (lang !== 'en' && lang !== 'id') lang = /^id\b/i.test(navigator.language || '') ? 'id' : 'en';
+    location.replace(lang + '/index.html' + location.hash);
+  })();
+</script>
+</head>
+<body>
+<p>Choose a language: <a href="en/index.html">English</a> | <a href="id/index.html">Bahasa Indonesia</a></p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://izzarddddd.github.io/nusa-coffee/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://izzarddddd.github.io/nusa-coffee/en/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://izzarddddd.github.io/nusa-coffee/id/"/>
+  </url>
+  <url>
+    <loc>https://izzarddddd.github.io/nusa-coffee/id/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://izzarddddd.github.io/nusa-coffee/en/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://izzarddddd.github.io/nusa-coffee/id/"/>
+  </url>
+</urlset>

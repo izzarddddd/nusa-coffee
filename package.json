@@ -1,0 +1,9 @@
+{
+  "name": "nusa-coffee",
+  "private": true,
+  "description": "Green coffee export site (Arabica / Robusta), English + Indonesian. Static frontend + Supabase.",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "serve": "npx serve . -l 5174"
+  }
+}
